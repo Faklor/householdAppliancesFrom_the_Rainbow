@@ -1,0 +1,4 @@
+{
+	"jwtSecret":"Faklor2351",
+	"connectURLmongo": "mongodb+srv://falok:123@cluster0.lwfjz.mongodb.net/dbHAFR?retryWrites=true&w=majority"
+}
